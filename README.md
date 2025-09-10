@@ -1,6 +1,4 @@
-## 🛠️ Recommended Extensions
-
-Below is the same content presented as a table for easier scanning.
+## 🛠️ Recommended Extensions 
 
 | Extension | Author | Description | Marketplace link |
 | --- | --- | --- | --- |
