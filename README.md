@@ -1,7 +1,23 @@
 ## 🛠️ Recommended Extensions
 
-These are the VS Code extensions I used while working on this project:
-
-* **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** - For consistent code formatting.
-* **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** - For code analysis and error checking.
-* **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** - To run a live-reloading local server for testing.
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) — Prettier — Opinionated code formatter for many languages.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) — Dirk Baeumer — Linting and error checking for JavaScript/TypeScript.
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) — Ritwick Dey — Launch a local dev server with live reload.
+- [Codex - OpenAI's coding agent](https://marketplace.visualstudio.com/search?term=Codex%20OpenAI%20coding%20agent) — OpenAI — AI coding assistant by OpenAI.
+- [GitHub Copilot](https://marketplace.visualstudio.com/search?term=GitHub%20Copilot) — GitHub — AI pair programmer that suggests code.
+- [Kilo Code AI Agent (Roo / Cline fork)](https://marketplace.visualstudio.com/search?term=Kilo%20Code%20AI%20Agent) — Kilo Code — Open-source AI coding assistant fork.
+- [Kombai - AI Agent for Frontend](https://marketplace.visualstudio.com/search?term=Kombai%20AI%20Agent%20for%20Frontend) — Kombai — Frontend-focused AI assistant and refactoring tools.
+- [Code Spell Checker](https://marketplace.visualstudio.com/search?term=Code%20Spell%20Checker) — Street Side Software — Lightweight spell checker for source code.
+- [Custom CSS and JS Loader](https://marketplace.visualstudio.com/search?term=Custom%20CSS%20and%20JS%20Loader) — be5invis — Inject custom CSS/JS into the VS Code UI.
+- [Data Workspace](https://marketplace.visualstudio.com/search?term=Data%20Workspace%20Microsoft) — Microsoft — Tools for database project workflows.
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/search?term=GitHub%20Copilot%20Chat) — GitHub — Chat interface for Copilot inside VS Code.
+- [GitHub (official)](https://marketplace.visualstudio.com/search?term=GitHub%20extension%20for%20Visual%20Studio%20Code) — GitHub — Integrates GitHub workflows and PRs.
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/search?term=GitLens%20Git%20supercharged) — GitKraken — Enhanced git annotations, blame and history.
+- [Learn with Sumit Theme](https://marketplace.visualstudio.com/search?term=Learn%20with%20Sumit%20Theme) — Learn with Sumit — A theme for VS Code by Learn with Sumit.
+- [Neon Local Connect](https://marketplace.visualstudio.com/search?term=Neon%20Local%20Connect%20Databricks) — Databricks — Local dev environment for Neon DBs with branch mgmt.
+- [Prisma](https://marketplace.visualstudio.com/search?term=Prisma%20extension) — Prisma — Syntax highlighting & tooling for Prisma schema files.
+- [SQL Bindings](https://marketplace.visualstudio.com/search?term=SQL%20Bindings%20Microsoft) — Microsoft — Azure Functions support for SQL bindings.
+- [SQL Database Projects](https://marketplace.visualstudio.com/search?term=SQL%20Database%20Projects%20Microsoft) — Microsoft — Manage and publish database schemas for MSSQL.
+- [SQL Server (mssql)](https://marketplace.visualstudio.com/search?term=SQL%20Server%20(mssql)%20Microsoft) — Microsoft — Tools for connecting to and querying SQL Server/Azure SQL.
+- [SVG-Viewer](https://marketplace.visualstudio.com/search?term=SVG-Viewer%20Dheovani) — Dheovani — Quick SVG previewer inside VS Code.
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/search?term=Tailwind%20CSS%20IntelliSense) — Tailwind Labs — Autocomplete and linting for Tailwind classes.
